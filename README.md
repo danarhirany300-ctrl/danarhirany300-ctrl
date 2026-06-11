@@ -1,19 +1,41 @@
-# Hi there, I'm [Danar] 👋 
+# 👋 Hi, I'm Danar | Aspiring Junior SOC Analyst
 
-Advanced Software Engineering student specializing in **Cybersecurity and Security Operations (SecOps)**. I build hands-on labs to master enterprise threat detection, log analysis, and incident response. Aspiring SOC Analyst / Security Engineer.
+I am a Stage 3 Software Engineering student at Salahaddin University with a dedicated focus on defensive cybersecurity, threat detection, and incident response. I bridge academic engineering principles with hands-on security operations by building virtual detection environments and analyzing live traffic.
 
 ---
 
-### 🛡️ Core Cybersecurity Focus
-* **SIEM / XDR:** Wazuh, Splunk Enterprise
-* **Telemetry & Monitoring:** Microsoft Sysmon, Windows Event Logs, Linux Syslog/Auditd
-* **Threat Hunting:** Writing custom XML detection rules, optimizing SPL queries
-* **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+## 🛠️ Technical Skill Set & Tools
+* **SIEM & Log Analytics:** Deployed and configured Wazuh, Splunk architecture.
+* **Network Security & Triage:** Packet capture diagnostics using Wireshark, analyzing TCP/IP, DNS, and HTTP/HTTPS infrastructure.
+* **Operating Systems:** Windows Client security logging, Linux diagnostics (Kali Linux), Virtualization (VirtualBox/VMware).
+* **Core Competencies:** Incident detection, alert triage, log monitoring, baseline anomaly analysis.
 
-### 🚀 Active Portfolio Projects
-* 🔹 **[Wazuh SIEM Home Lab](https://github.com/your-username/wazuh-soc-lab)** - Endpoint monitoring, custom XML rule engineering, and automated active response.
-* 🔹 **[Splunk Analytics Lab](https://github.com/your-username/splunk-soc-lab)** - Ingesting enterprise logs, advanced SPL threat hunting, and SOC dashboard creation.
+---
 
-### 📬 Connect with Me
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/danar-hirany-580938338]
-* 📧 **Email:** [danarhirany300@gmail.com]
+## 🚀 Featured Cybersecurity Projects
+
+### 🔹 [SOC Home Lab Deployment & Attack Simulation]
+Engineered a virtual sandbox environment hosting Kali Linux attacker units alongside targeted endpoint systems.
+* Integrated **Wazuh** and **Splunk** models to centralize system log data.
+* Analyzed endpoint activity and built detection visibility for simulated attack vectors.
+* Practiced phishing evaluation methodologies and elementary incident response lifecycles.
+
+### 🔹 [Network Traffic Verification & Analysis](LINK_TO_YOUR_WIRESHARK_OR_TRAFFIC_REPO)
+Deep packet inspection and analysis of raw network telemetry data.
+* Utilized **Wireshark** to capture and parse packet streams across DNS, HTTP, and TCP pools.
+* Applied targeted syntax filters to validate alerts and isolate baseline security anomalies.
+* Tracked data metrics tied specifically to suspicious network activities.
+
+### 🔹 [Day-by-Day SOC Analyst Learning Journey](LINK_TO_YOUR_10_DAYS_REPO)
+An ongoing, documented repository mapping out daily technical progression, laboratory builds, and security research milestones.
+
+---
+
+## 📈 Certifications & Development
+* **CompTIA Security+** | *Currently preparing and in-pipeline*
+
+---
+
+## 🤝 Connect with Me
+* **LinkedIn:** [linkedin.com/in/danar-hirany-580938338](https://linkedin.com/in/danar-hirany-580938338)
+* **Email:** danarhirany300@gmail.com
