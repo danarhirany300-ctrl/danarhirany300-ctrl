@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm [Danar] 👋 
 
-<!--
-**danarhirany300-ctrl/danarhirany300-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advanced Software Engineering student specializing in **Cybersecurity and Security Operations (SecOps)**. I build hands-on labs to master enterprise threat detection, log analysis, and incident response. Aspiring SOC Analyst / Security Engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Core Cybersecurity Focus
+* **SIEM / XDR:** Wazuh, Splunk Enterprise
+* **Telemetry & Monitoring:** Microsoft Sysmon, Windows Event Logs, Linux Syslog/Auditd
+* **Threat Hunting:** Writing custom XML detection rules, optimizing SPL queries
+* **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+
+### 🚀 Active Portfolio Projects
+* 🔹 **[Wazuh SIEM Home Lab](https://github.com/your-username/wazuh-soc-lab)** - Endpoint monitoring, custom XML rule engineering, and automated active response.
+* 🔹 **[Splunk Analytics Lab](https://github.com/your-username/splunk-soc-lab)** - Ingesting enterprise logs, advanced SPL threat hunting, and SOC dashboard creation.
+
+### 📬 Connect with Me
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/danar-hirany-580938338]
+* 📧 **Email:** [danarhirany300@gmail.com]
