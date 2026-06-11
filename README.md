@@ -14,7 +14,7 @@ I am a Stage 3 Software Engineering student at Salahaddin University with a dedi
 
 ## 🚀 Featured Cybersecurity Projects
 
-### 🔹 [SOC Home Lab Deployment & Attack Simulation][(-Learning-Journey)](https://github.com/danarhirany300-ctrl/wazuh-soc-lab)
+### 🔹 [SOC Home Lab Deployment & Attack Simulation](https://github.com/danarhirany300-ctrl/wazuh-soc-lab)
 Engineered a virtual sandbox environment hosting Kali Linux attacker units alongside targeted endpoint systems.
 * Integrated **Wazuh** and **Splunk** models to centralize system log data.
 * Analyzed endpoint activity and built detection visibility for simulated attack vectors.
