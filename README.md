@@ -14,19 +14,19 @@ I am a Stage 3 Software Engineering student at Salahaddin University with a dedi
 
 ## 🚀 Featured Cybersecurity Projects
 
-### 🔹 [SOC Home Lab Deployment & Attack Simulation](https://github.com/danarhirany300-ctrl/CyberSecurity-Learning-Journey)
+### 🔹 [SOC Home Lab Deployment & Attack Simulation][(-Learning-Journey)](https://github.com/danarhirany300-ctrl/wazuh-soc-lab)
 Engineered a virtual sandbox environment hosting Kali Linux attacker units alongside targeted endpoint systems.
 * Integrated **Wazuh** and **Splunk** models to centralize system log data.
 * Analyzed endpoint activity and built detection visibility for simulated attack vectors.
 * Practiced phishing evaluation methodologies and elementary incident response lifecycles.
 
-### 🔹 [Network Traffic Verification & Analysis](LINK_TO_YOUR_WIRESHARK_OR_TRAFFIC_REPO)
+### 🔹 [Network Traffic Verification & Analysis]([LINK_TO_YOUR_WIRESHARK_OR_TRAFFIC_REPO](https://github.com/danarhirany300-ctrl/splunk-soc-lab))
 Deep packet inspection and analysis of raw network telemetry data.
 * Utilized **Wireshark** to capture and parse packet streams across DNS, HTTP, and TCP pools.
 * Applied targeted syntax filters to validate alerts and isolate baseline security anomalies.
 * Tracked data metrics tied specifically to suspicious network activities.
 
-### 🔹 [Day-by-Day SOC Analyst Learning Journey](LINK_TO_YOUR_10_DAYS_REPO)
+### 🔹 [Day-by-Day SOC Analyst Learning Journey]([LINK_TO_YOUR_10_DAYS_REPO](https://github.com/danarhirany300-ctrl/CyberSecurity-Learning-Journey))
 An ongoing, documented repository mapping out daily technical progression, laboratory builds, and security research milestones.
 
 ---
