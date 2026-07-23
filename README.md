@@ -1,41 +1,98 @@
-# 👋 Hi, I'm Danar | Aspiring Junior SOC Analyst
+# Hi, I'm Danar 👋
 
-I am a Stage 3 Software Engineering student at Salahaddin University with a dedicated focus on defensive cybersecurity, threat detection, and incident response. I bridge academic engineering principles with hands-on security operations by building virtual detection environments and analyzing live traffic.
+## 👨‍💻 About Me
 
----
+I'm **Danar**, a Software Engineering student at **Salahaddin University-Erbil**, currently in **Stage 3**.
 
-## 🛠️ Technical Skill Set & Tools
-* **SIEM & Log Analytics:** Deployed and configured Wazuh, Splunk architecture.
-* **Network Security & Triage:** Packet capture diagnostics using Wireshark, analyzing TCP/IP, DNS, and HTTP/HTTPS infrastructure.
-* **Operating Systems:** Windows Client security logging, Linux diagnostics (Kali Linux), Virtualization (VirtualBox/VMware).
-* **Core Competencies:** Incident detection, alert triage, log monitoring, baseline anomaly analysis.
+I am passionate about **Cybersecurity**, with a primary focus on **Blue Team Operations**, **Security Operations Center (SOC)**, **Threat Detection**, **Threat Hunting**, and **Incident Response**.
+
+My goal is to become a **Security Engineer**, and I continuously improve my technical skills through hands-on labs, home lab environments, and real-world security investigation scenarios.
 
 ---
 
-## 🚀 Featured Cybersecurity Projects
+# 🎯 Career Goal
 
-### 🔹 [SOC Home Lab Deployment & Attack Simulation](https://github.com/danarhirany300-ctrl/wazuh-soc-lab)
-Engineered a virtual sandbox environment hosting Kali Linux attacker units alongside targeted endpoint systems.
-* Integrated **Wazuh** and **Splunk** models to centralize system log data.
-* Analyzed endpoint activity and built detection visibility for simulated attack vectors.
-* Practiced phishing evaluation methodologies and elementary incident response lifecycles.
+I am currently preparing for a career as a:
 
-### 🔹 [Network Traffic Verification & Analysis](https://github.com/danarhirany300-ctrl/splunk-soc-lab))
-Deep packet inspection and analysis of raw network telemetry data.
-* Utilized **Wireshark** to capture and parse packet streams across DNS, HTTP, and TCP pools.
-* Applied targeted syntax filters to validate alerts and isolate baseline security anomalies.
-* Tracked data metrics tied specifically to suspicious network activities.
+- Junior SOC Analyst
+- Security Operations Analyst
+- Cybersecurity Analyst
+- Blue Team Analyst
 
-### 🔹 [Day-by-Day SOC Analyst Learning Journey](https://github.com/danarhirany300-ctrl/CyberSecurity-Learning-Journey))
-An ongoing, documented repository mapping out daily technical progression, laboratory builds, and security research milestones.
+My long-term goal is to become a **Security Engineer** specializing in enterprise security, threat detection, and incident response.
 
 ---
 
-## 📈 Certifications & Development
-* **CompTIA Security+** | *Currently preparing and in-pipeline*
+# 💻 Technical Skills
+
+### Operating Systems
+
+- Windows
+- Linux
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- ARP
+- HTTP / HTTPS
+- Routing & Switching
+
+### Security
+
+- Security Operations (SOC)
+- Threat Detection
+- Threat Hunting
+- Incident Response
+- Log Analysis
+- MITRE ATT&CK
+- IOC Analysis
+- Malware Analysis (Basic)
+- Phishing Investigation
+- Ransomware Investigation
+
+### Microsoft Security
+
+- Microsoft Defender XDR
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+
+### Security Tools
+
+- Wireshark
+- Kali Linux
+- VirtualBox
+- Burp Suite
+- Nmap
 
 ---
 
-## 🤝 Connect with Me
-* **LinkedIn:** [linkedin.com/in/danar-hirany-580938338](https://linkedin.com/in/danar-hirany-580938338)
-* **Email:** danarhirany300@gmail.com
+# 📂 Featured Repositories
+
+- 🛡️ **Cybersecurity Foundations (Days 1–100)**
+- 🔍 **SOC Analyst Portfolio (Days 101+)**
+- 📊 **SOC KQL Queries**
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Microsoft Sentinel
+- Advanced KQL Hunting
+- Active Directory Security
+- Cloud Security (Microsoft Entra ID & Azure)
+- Detection Engineering
+- Threat Intelligence
+
+---
+
+# 📫 Connect With Me
+
+I'm always learning, building, and improving my cybersecurity skills through practical labs and real-world SOC investigation scenarios.
+
+Feel free to explore my repositories and follow my cybersecurity journey.
+
+---
+
+> **"Continuous learning, hands-on practice, and curiosity are the foundation of a successful cybersecurity career."**
